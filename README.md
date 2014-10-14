@@ -6,4 +6,4 @@ this repository can be used to stored more versatile ones from contributions.
 
 
 
-View the notebooks in [http://nbviewer.ipython.org/github/bioservices/notebooks/tree/master/](nbviewer).
+View the notebooks in [nbviewer](http://nbviewer.ipython.org/github/bioservices/notebooks/tree/master/)
