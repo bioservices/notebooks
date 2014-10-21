@@ -1,0 +1,42 @@
+/*
+Placeholder for custom user CSS
+
+mainly to be overridden in profile/static/custom/custom.css
+
+This will always be an empty file in IPython
+*/
+<style>
+
+
+
+h1 {
+    text-align:center;
+    background-color: #DEC3B0;
+    border: 2px solid #000;
+    padding:1em;
+    width:90%;
+}
+h2 {
+    text-align:center;
+    background-color: #DEC3B0;
+    padding:.8em;
+    border: 1px solid #000;
+    width:80%;
+}
+
+h3 {
+    text-align:center;
+    background-color: #b0c4de;
+    border: 1px solid #000;
+    padding:.6em;
+    width:60%;
+}
+h4 {
+    text-align:center;
+    background-color: #b0c4de;
+    padding:.4em;
+    border: 2px solid #FFF;
+    width:50%;
+}
+
+</style>
