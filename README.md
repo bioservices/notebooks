@@ -10,9 +10,10 @@ View the notebooks in [nbviewer](http://nbviewer.ipython.org/github/bioservices/
 
 Some examples
 ------------------
+* How to use BioServices to access programmatically to UniProt, KEGG, ChEMBL, Ensembl and other web services used in Life Science: see the notebook **Introduction** in [nbviewer]( http://nbviewer.ipython.org/github/bioservices/notebooks/blob/master/introduction/Overview.ipynb)
 
 * Build a mapping between Ensembl identifiers and other databases such as HGNC or Entrez using the BioMart web services:
-  See the notebook in [nbviewer](http://nbviewer.ipython.org/github/bioservices/notebooks/tree/master/biomart/ensembl.ipynb)
+  See the notebook **biomart/ensembl** in [nbviewer](http://nbviewer.ipython.org/github/bioservices/notebooks/tree/master/biomart/ensembl.ipynb)
 
 Contributions welcome !!
 --------------------------
