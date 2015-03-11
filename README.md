@@ -11,6 +11,6 @@ View the notebooks in [nbviewer](http://nbviewer.ipython.org/github/bioservices/
 Some examples
 ------------------
 
-Build a mapping between Ensembl identifiers and other databases such as HGNC or Entrez using the BioMart web services:
-See the notebook in [nbviewer](http://nbviewer.ipython.org/github/bioservices/notebooks/tree/master/biomart/ensembl.ipynb)
+* Build a mapping between Ensembl identifiers and other databases such as HGNC or Entrez using the BioMart web services:
+  See the notebook in [nbviewer](http://nbviewer.ipython.org/github/bioservices/notebooks/tree/master/biomart/ensembl.ipynb)
 
